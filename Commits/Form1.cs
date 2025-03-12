@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Drawing;
 using System.Windows.Forms;
 
 namespace SimpleWindowsFormsApp
@@ -17,6 +18,8 @@ namespace SimpleWindowsFormsApp
             showMessageButton.Text = "Show Message";
             showMessageButton.Width = 120;
             showMessageButton.Location = new System.Drawing.Point(90, 70);
+            showMessageButton.BackColor = Color.LightBlue;
+            showMessageButton.Font = new Font("Arial", 10, FontStyle.Bold);
             showMessageButton.Click += ShowMessageButton_Click;
 
             Controls.Add(showMessageButton);
