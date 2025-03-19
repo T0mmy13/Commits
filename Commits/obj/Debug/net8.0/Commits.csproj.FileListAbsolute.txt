@@ -1,0 +1,14 @@
+E:\Projects\Visual Studio\Commits\Commits\bin\Debug\net8.0\Commits.exe
+E:\Projects\Visual Studio\Commits\Commits\bin\Debug\net8.0\Commits.deps.json
+E:\Projects\Visual Studio\Commits\Commits\bin\Debug\net8.0\Commits.runtimeconfig.json
+E:\Projects\Visual Studio\Commits\Commits\bin\Debug\net8.0\Commits.dll
+E:\Projects\Visual Studio\Commits\Commits\bin\Debug\net8.0\Commits.pdb
+E:\Projects\Visual Studio\Commits\Commits\obj\Debug\net8.0\Commits.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Visual Studio\Commits\Commits\obj\Debug\net8.0\Commits.AssemblyInfoInputs.cache
+E:\Projects\Visual Studio\Commits\Commits\obj\Debug\net8.0\Commits.AssemblyInfo.cs
+E:\Projects\Visual Studio\Commits\Commits\obj\Debug\net8.0\Commits.csproj.CoreCompileInputs.cache
+E:\Projects\Visual Studio\Commits\Commits\obj\Debug\net8.0\Commits.dll
+E:\Projects\Visual Studio\Commits\Commits\obj\Debug\net8.0\refint\Commits.dll
+E:\Projects\Visual Studio\Commits\Commits\obj\Debug\net8.0\Commits.pdb
+E:\Projects\Visual Studio\Commits\Commits\obj\Debug\net8.0\Commits.genruntimeconfig.cache
+E:\Projects\Visual Studio\Commits\Commits\obj\Debug\net8.0\ref\Commits.dll
